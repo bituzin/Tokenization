@@ -1,5 +1,5 @@
 # 🚀 SpeedRun Ethereum Challenge #0 - Tokenization
-
+This my version of completed challenge
 My accepted solution for Challenge #0 from SpeedRun Ethereum - a tokenization platform for creating and managing digital assets.
 
 ## 📋 Project Description
